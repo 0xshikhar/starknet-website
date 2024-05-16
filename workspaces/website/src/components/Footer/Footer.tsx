@@ -158,12 +158,12 @@ const Root = ({ children, seo, ...rest }: RootProps) => {
                 >
                   <IconButton
                     as="a"
-                    href="https://starknet.io/discord"
+                    href="https://discord.com/invite/starknet-community"
                     aria-label="Discord"
                     icon={<SiDiscord fontSize="1.25rem" />}
                     size="small"
                     marginRight="16px"
-                  />
+                  /> 
                   <IconButton
                     as="a"
                     href="https://github.com/keep-starknet-strange/awesome-starknet"
